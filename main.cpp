@@ -13,6 +13,5 @@ int main(){
     for(int i = 0 ; i< a.size(); i++){
         cout << a.at(i);
     }
-    cout << "shlomo\n";
     return 0;
 }
