@@ -1,6 +1,5 @@
 #include<iostream>
 #include"mat.hpp"
-#include"mat.cpp"
 #include<string>
 #include<vector>
 
